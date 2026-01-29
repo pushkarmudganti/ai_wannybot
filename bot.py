@@ -121,4 +121,4 @@ async def on_message(message):
         await message.reply(config.get("error_message", "⚠️ | Internal error occurred."))
         print(f"[ERROR] {e}")
 
-bot.run("")
+bot.run("change here bot token")
