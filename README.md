@@ -17,10 +17,6 @@ A simple AI chatbot built with Python.
 
 `nano bot.py`
 
-## Find it
-
-`bot.run("change here bot token")`
-
 ## change Api Key 
 
 3. `nano config.json`
