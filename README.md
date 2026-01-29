@@ -13,3 +13,14 @@ A simple AI chatbot built with Python.
 ```bash
 git clone https://github.com/yourusername/ai_wannybot.git
 cd ai_wannybot
+
+2. Add Token
+
+```nano bot.py ```
+
+# CHECK AT BOTTOM AND CHANGE TOKEN
+
+bot.run("change here bot token")
+
+# UPDATE API KEY ON CONFIG.JSON
+
