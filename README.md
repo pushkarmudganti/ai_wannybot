@@ -9,7 +9,7 @@ A simple AI chatbot built with Python.
 
 ## Installation
 
-1. Clone the repository:
+1. AUTO REQUIREMENTS WITH REPO INSTALLTION ONE CLICK:
  bash
 2. ```bash -c "$(curl -fsSL https://raw.githubusercontent.com/pushkarmudganti/LXC-BOT-WANNYDRAGON/main/install.sh)"```
 
