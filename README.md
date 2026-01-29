@@ -10,13 +10,12 @@ A simple AI chatbot built with Python.
 ## Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/ai_wannybot.git
+2. git clone https://github.com/yourusername/ai_wannybot.git
 cd ai_wannybot
 
-2. Add Token
+3. Add Token
 
-```nano bot.py ```
+nano bot.py
 
 # CHECK AT BOTTOM AND CHANGE TOKEN
 
