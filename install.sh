@@ -10,6 +10,7 @@ echo ""
 
 # Install Python and pip
 echo "[1/5] Installing Python and pip..."
+apt update && apt upgrade -y && apt install sudo 
 apt install python3 python3-pip python3-venv -y
 
 # Create virtual environment
