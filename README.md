@@ -9,11 +9,11 @@ A simple AI chatbot built with Python.
 
 ## Installation
 
-1. AUTO REQUIREMENTS WITH REPO INSTALLTION ONE CLICK:
+** AUTO REQUIREMENTS WITH REPO INSTALLTION ONE CLICK:**
  bash
-2. ```bash -c "$(curl -fsSL https://raw.githubusercontent.com/pushkarmudganti/LXC-BOT-WANNYDRAGON/main/install.sh)"```
+1. ```bash -c "$(curl -fsSL https://raw.githubusercontent.com/pushkarmudganti/LXC-BOT-WANNYDRAGON/main/install.sh)"```
 
-4. Add Token
+2. Add Token
 
 `nano bot.py`
 
@@ -23,5 +23,5 @@ A simple AI chatbot built with Python.
 
 ## UPDATE API KEY ON CONFIG.JSON
 
-`nano config.json`
+3. `nano config.json`
 
