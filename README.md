@@ -13,9 +13,11 @@ A simple AI chatbot built with Python.
 
 2. ```cd ai_wannybot```
 
+## Change Token
+
 `nano bot.py`
 
-## Change Token
+## Find it
 
 `bot.run("change here bot token")`
 
